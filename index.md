@@ -1,26 +1,37 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gustavo Maciel
+#### IT Infrastructure Intern
+___
+_Brasileiro, solteiro, 25/07/1998_
+_Rua Luiz Payão, 385, Jardins, Bragança Paulista, SP_
+_C: +55 11 99996-6539 | E: gtvsmaciel@outlook.com_
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### Formação
+___
+
+- Ensino médio (completo), SESI-SP;
+- Ensino superior (cursando), IFSP - Bragança Paulista
+-- Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+**CURSO: Análise e Desenvolvimento de Sistemas**
+
+### Experiência
+___
+- **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
+- Função: _Designer Gráfico_
+-- Principais atividades: Criação de material para uso publicitário.
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **05/2018 - 11/2018 - Prefeitura Municipal de Bragança Paulista**
+- Função: _Suporte em informática_
+-- Principais atividades: Manutenção de computadores, suporte ao usuário.
 
 
-### Research interests
+- **11/2018 - atual - OSG Sulamericana de Ferramentas Ltda**
+- Função: _Estagiário em Infraestrutura TI_
+-- Principais atividades: Manutenção e instalação de computadores, servidores, impressoras, terminais diversos, instalação e suporte de softwares, suporte ao usuário, atendimento de chamados, suporte a impressoras de pequeno a médio porte, suporte a smartphones corporativos Android, atendimento remoto, configuração de VM, terminais multi-usuários, sistemas operacionais (Windows e Linux).
+Experiência em infraestrutura de TI e suporte técnico nível 1.
+
+### Qualificações e Atividades Complementares
+__
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
