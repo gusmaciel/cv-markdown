@@ -48,12 +48,12 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 ---
 - Conhecimentos em ambiente Windows, Linux, MacOS e Office 365 Administration;
 - Noções de linguagens de programação e SGBDs (HTML5, CSS3, JavaScript, C# .NET, Java EE, Modelagem de Banco de Dados Relacional, MySQL Workbench);
-- 
+- Noções em Engenharia/Arquitetura de Softwares (análise e levantamento de requisitos, modelagem de diagramas UML e padrões de projeto).
 
 ### Idiomas
 ---
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MzAwOTU2XX0=
+eyJoaXN0b3J5IjpbMTUzOTcwMDUzMl19
 -->
