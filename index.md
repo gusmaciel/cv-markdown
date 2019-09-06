@@ -27,7 +27,7 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 
 - **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
 - Função: _Designer Gráfico_
--- Principais atividades: Criação de material para uso publicitário; Uso das Ferramentas Adobe (Photoshop, Illustrator, Dreamweaver) e CorelDRAW; Análise de imagem; Desenvolvimento de técnica 
+-- Principais atividades: Criação de material para uso publicitário; Uso das Ferramentas Adobe (Photoshop, Illustrator, Dreamweaver) e CorelDRAW; Análise de imagem; Desenvolvimento de técnicas de pré-impressão; Conhecimento em produção gráfica do ínico ao fi
 
 ### Qualificações e Atividades Complementares
 ---
@@ -55,5 +55,5 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDE2MzAwMV19
+eyJoaXN0b3J5IjpbLTE3MTA0NzExNzNdfQ==
 -->
