@@ -1,5 +1,5 @@
 # Gustavo Maciel
-#### IT Infrastructure Intern
+#### IT Technician
 ___
 _Brasileiro, solteiro, 25/07/1998_
 _Rua Luiz Payão, 385, Jardins, Bragança Paulista, SP_
@@ -55,5 +55,5 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTcwMDUzMl19
+eyJoaXN0b3J5IjpbODUyMDYwMDg5XX0=
 -->
