@@ -23,11 +23,11 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 
 - **05/2018 - 11/2018 - Prefeitura Municipal de Bragança Paulista**
 - Função: _Suporte em informática_
--- Principais atividades: Manutenção de computadores, impressoras e suporte ao usuário
+-- Principais atividades: Manutenção de computadores, impressoras e suporte ao usuário.
 
 - **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
 - Função: _Designer Gráfico_
--- Principais atividades: Criação de material para uso publicitário; Uso das Ferramentas Adobe (Photoshop, Illustrator, Dreamweaver) e CorelDRAW; Análise de imagem; Desenvolvimento de técnicas de pré-impressão; Conhecimento em produção gráfica do ínico ao fi
+-- Principais atividades: Criação de material para uso publicitário; Uso das Ferramentas Adobe (Photoshop, Illustrator, Dreamweaver) e CorelDRAW; Análise de imagem; Desenvolvimento de técnicas de pré-impressão; Conhecimento em produção gráfica do início ao fim.
 
 ### Qualificações e Atividades Complementares
 ---
@@ -55,5 +55,5 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA0NzExNzNdfQ==
+eyJoaXN0b3J5IjpbLTEzNzIwNjM0MTFdfQ==
 -->
