@@ -31,21 +31,23 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 
 ### Qualificações e Atividades Complementares
 ---
+- IT-027 - Lean IT Essentials Certification (Credential 5F6032A)
+-- Itcerts Inc. | IT Certifications (International Validity)
+
+- Ensino Técnico (completo) - SENAI-SP
+-- Serviço Nacional de Aprendizagem Industrial
+**CURSO: Assistente Administrativo (800 horas).**
+
 - MC Tecnologia - Web Designer Developer.
 06/2010 à 08/2012
 
 - MC Tecnologia - Hardware Complementar.
 01/2011 à 03/2011
 
-- Ensino Técnico (completo) - SENAI-SP
---Serviço Nacional de Aprendizagem Industrial
-**CURSO: Assistente Administrativo (800 horas).**
-
-
 ## Idiomas
 ---
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NzAyMzczXX0=
+eyJoaXN0b3J5IjpbMTUyMzMzODY2MF19
 -->
