@@ -23,11 +23,11 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 
 - **05/2018 - 11/2018 - Prefeitura Municipal de Bragança Paulista**
 - Função: _Suporte em informática_
--- Principais atividades: Manutenção de computadores, impressoras e suporte ao usuário.
+-- Principais atividades: Manutenção de computadores, impressoras e suporte ao usuário
 
 - **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
 - Função: _Designer Gráfico_
--- Principais atividades: Criação de material para uso publicitário.
+-- Principais atividades: Criação de material para uso publicitário; Uso das Ferramentas Adobe e Corel
 
 ### Qualificações e Atividades Complementares
 ---
@@ -36,12 +36,12 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 
 - Ensino Técnico (completo) - SENAI-SP
 -- Serviço Nacional de Aprendizagem Industrial
-**CURSO: Assistente Administrativo (800 horas).**
+**CURSO: Assistente Administrativo (800 horas)**
 
-- MC Tecnologia - Web Designer Developer.
+- MC Tecnologia - Web Designer Developer
 06/2010 à 08/2012
 
-- MC Tecnologia - Hardware Complementar.
+- MC Tecnologia - Hardware Básico
 01/2011 à 03/2011
 
 ### Informações Adicionais
@@ -55,5 +55,5 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMDYwMDg5XX0=
+eyJoaXN0b3J5IjpbLTEzMjkxNDc5NjJdfQ==
 -->
