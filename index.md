@@ -15,20 +15,19 @@ ___
 
 ### Experiência
 ___
-- **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
-- Função: _Designer Gráfico_
--- Principais atividades: Criação de material para uso publicitário.
-
-
-- **05/2018 - 11/2018 - Prefeitura Municipal de Bragança Paulista**
-- Função: _Suporte em informática_
--- Principais atividades: Manutenção de computadores, suporte ao usuário.
-
 
 - **11/2018 - atual - OSG Sulamericana de Ferramentas Ltda**
 - Função: _Estagiário em Infraestrutura TI_
 -- Principais atividades: Manutenção e instalação de computadores, servidores, impressoras, terminais diversos, instalação e suporte de softwares, suporte ao usuário, atendimento de chamados, suporte a impressoras de pequeno a médio porte, suporte a smartphones corporativos Android, atendimento remoto, configuração de VM, terminais multi-usuários, sistemas operacionais (Windows e Linux).
 Experiência em infraestrutura de TI e suporte técnico nível 1.
+
+- **05/2018 - 11/2018 - Prefeitura Municipal de Bragança Paulista**
+- Função: _Suporte em informática_
+-- Principais atividades: Manutenção de computadores, impressoras e suporte ao usuário.
+
+- **03/2016 - 10/2018 - Vidiart Gráfica e Editora Ltda**
+- Função: _Designer Gráfico_
+-- Principais atividades: Criação de material para uso publicitário.
 
 ### Qualificações e Atividades Complementares
 ---
@@ -47,3 +46,6 @@ Experiência em infraestrutura de TI e suporte técnico nível 1.
 ---
 - MC Tecnologia - Inglês (básico à intermediário).
 01/2011 à 03/2011
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzE0NzAyMzczXX0=
+-->
